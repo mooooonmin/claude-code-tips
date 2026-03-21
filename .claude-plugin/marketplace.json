@@ -10,14 +10,6 @@
       "source": "./",
       "description": "Developer experience essentials: GitHub Actions debugging, conversation cloning/half-cloning, context handoffs, and Reddit research via Gemini CLI",
       "version": "0.14.11"
-    },
-    {
-      "name": "gh-star-history",
-      "source": {
-        "source": "github",
-        "repo": "ykdojo/gh-star-history"
-      },
-      "description": "Visualize GitHub star history and regional breakdown as interactive charts"
     }
   ]
 }
